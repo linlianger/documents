@@ -22,3 +22,4 @@ unpackage/
 pnpm-lock.yaml
 package-lock.json
 docs/.vitepress/dist
+test/
